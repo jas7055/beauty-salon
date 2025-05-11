@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/beauty-salon/static/css/main.e6bca16f.chunk.css",
-    "main.js": "/beauty-salon/static/js/main.62dc3111.chunk.js",
-    "main.js.map": "/beauty-salon/static/js/main.62dc3111.chunk.js.map",
+    "main.js": "/beauty-salon/static/js/main.bc9338c3.chunk.js",
+    "main.js.map": "/beauty-salon/static/js/main.bc9338c3.chunk.js.map",
     "runtime-main.js": "/beauty-salon/static/js/runtime-main.9dee2fe9.js",
     "runtime-main.js.map": "/beauty-salon/static/js/runtime-main.9dee2fe9.js.map",
     "static/css/2.7f669fb7.chunk.css": "/beauty-salon/static/css/2.7f669fb7.chunk.css",
     "static/js/2.429f764a.chunk.js": "/beauty-salon/static/js/2.429f764a.chunk.js",
     "static/js/2.429f764a.chunk.js.map": "/beauty-salon/static/js/2.429f764a.chunk.js.map",
     "index.html": "/beauty-salon/index.html",
-    "precache-manifest.03010d2ece9c078d8806c4793c21936e.js": "/beauty-salon/precache-manifest.03010d2ece9c078d8806c4793c21936e.js",
+    "precache-manifest.731d39e78eb043ac47ad6ce912830d9e.js": "/beauty-salon/precache-manifest.731d39e78eb043ac47ad6ce912830d9e.js",
     "service-worker.js": "/beauty-salon/service-worker.js",
     "static/css/2.7f669fb7.chunk.css.map": "/beauty-salon/static/css/2.7f669fb7.chunk.css.map",
     "static/css/main.e6bca16f.chunk.css.map": "/beauty-salon/static/css/main.e6bca16f.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.7f669fb7.chunk.css",
     "static/js/2.429f764a.chunk.js",
     "static/css/main.e6bca16f.chunk.css",
-    "static/js/main.62dc3111.chunk.js"
+    "static/js/main.bc9338c3.chunk.js"
   ]
 }

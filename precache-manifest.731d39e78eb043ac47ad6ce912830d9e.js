@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7361bf427d86a24e9826991692509a51",
+    "revision": "30f80aa3e2cb64a67fd5aab48caa1368",
     "url": "/beauty-salon/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beauty-salon/static/css/2.7f669fb7.chunk.css"
   },
   {
-    "revision": "a07ab49e9f1bec949e97",
+    "revision": "7bb8ec2dfadc8369a5ca",
     "url": "/beauty-salon/static/css/main.e6bca16f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/beauty-salon/static/js/2.429f764a.chunk.js"
   },
   {
-    "revision": "a07ab49e9f1bec949e97",
-    "url": "/beauty-salon/static/js/main.62dc3111.chunk.js"
+    "revision": "7bb8ec2dfadc8369a5ca",
+    "url": "/beauty-salon/static/js/main.bc9338c3.chunk.js"
   },
   {
     "revision": "921eaf9cd7b1f9fe2cc1",
